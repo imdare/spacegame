@@ -1,0 +1,2 @@
+//
+faction = factions.neutral;
